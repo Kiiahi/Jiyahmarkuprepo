@@ -7,5 +7,5 @@
 + I got to see " One of dem Days" with Kadarius last night
 
 ![sunflare](SolarFull_SeanDoran_2880FullwidthLede-1720x968.jpg) 
-*[Markdown Guide](https://www.markdownguide.org)*
+*[Religion](https://www.markdownguide.org)*
 Approved by Bruce Brown
