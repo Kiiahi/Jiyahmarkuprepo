@@ -8,3 +8,4 @@
 
 ![sunflare](SolarFull_SeanDoran_2880FullwidthLede-1720x968.jpg) 
 *[Markdown Guide](https://www.markdownguide.org)*
+Approved by Bruce Brown
